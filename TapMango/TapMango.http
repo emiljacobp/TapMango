@@ -1,0 +1,6 @@
+@TapMango_HostAddress = http://localhost:5052
+
+GET {{TapMango_HostAddress}}/SmsController/
+Accept: application/json
+
+###
